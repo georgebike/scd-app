@@ -1,7 +1,5 @@
 import os
 
-
-
 class Development(object):
     """
     Development environment configuration
